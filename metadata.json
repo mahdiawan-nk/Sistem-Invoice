@@ -1,0 +1,6 @@
+{
+  "name": "Invoice Management System",
+  "description": "Sistem Manajemen & Pembuat Invoice Profesional Indonesia dengan Kustomisasi Layout, Laporan Finansial, dan Ekspor PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
